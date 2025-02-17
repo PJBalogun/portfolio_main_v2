@@ -1,6 +1,6 @@
 import React from "react";
 import { Github, ExternalLink } from "lucide-react";
-import olova from "../assets/images/olova.png";
+import { projects } from "@/lib/projects";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
 const MacOsButtons = () => (
@@ -12,20 +12,7 @@ const MacOsButtons = () => (
 );
 
 const ProjectShowcase = () => {
-  const projects = [
-    {
-      title: "Olova! A Lightweight JavaScript Library",
-      description:
-        "Olova.js is a lightweight JavaScript library for building modern, reactive, and dynamic web applications. It features a simple, component-based architecture, enabling developers to create reusable and interactive UI elements with minimal code and overhead.",
-      tags: ["JavaScript", "Reactive", "Web Development"],
-      links: {
-        github: "https://github.com/olovajs/olova",
-        demo: "https://olova.js.org/",
-      },
-      image: olova,
-      featured: true,
-    },
-  ];
+
 
   return (
     <div

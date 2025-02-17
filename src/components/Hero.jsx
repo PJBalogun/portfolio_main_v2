@@ -57,8 +57,8 @@ export default function Hero() {
 
   const [code] = useState(`
 const profile = {
-    name: 'Nazmul Hossain',
-    title: 'Full-Stack Developer | Cloud Enthusiast | Problem Solver',
+    name: 'Balogun Oluwapelumi',
+    title: 'Frontend Developer | Cloud Enthusiast | Problem Solver',
     skills: [
         'React', 'NextJS', 'Redux', 'Express',
         'MySQL', 'MongoDB', 'Docker', 'AWS', 'TypeScript',
@@ -121,7 +121,7 @@ const profile = {
                     I'm
                     <span className="typing-effect gradient-text">
                       {" "}
-                      Nazmul Hossain
+                      Balogun  Oluwapelumi
                     </span>
                   </span>
                 </h1>
@@ -142,7 +142,7 @@ const profile = {
               {/* Description */}
               <div className="relative mb-8 sm:mb-12 max-w-xl">
                 <p className="text-base sm:text-xl text-gray-300/90 leading-relaxed">
-                  JavaScript lover 🚀 | OlovaJS creator 🔧 | Crafting frameworks
+                  JavaScript lover 🚀 | Crafting frameworks
                   and coding the future 💻✨
                 </p>
               </div>

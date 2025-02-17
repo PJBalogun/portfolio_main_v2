@@ -55,29 +55,30 @@ const ExperienceSection = () => {
   const experiences = [
     {
       icon: Network,
-      title: "WordPress Developer",
-      company: "Fiverr",
-      period: "2019 - 2020",
+      title: "Frontend Coding Instructor",
+      company: "Techance",
+      period: "July 2023 - December 2023",
       description:
-        "Worked on developing and customizing WordPress websites for clients globally.",
+        "Managed and maintained the organization's virtual learning platform for over 50 students. Conducted React.js and JavaScript workshops, adapting to individual learning styles. Developed and implemented an interactive coding curriculum, increasing student engagement by 30%.",
     },
     {
       icon: Layers,
-      title: "Junior Frontend Developer",
-      company: "Sera Programmer",
-      period: "2021 - 2023",
+      title: "Frontend Intern",
+      company: "Lufem Systems",
+      period: "September 2021 - April 2022",
       description:
-        "Assisted in building and optimizing user interfaces with a focus on responsive and interactive designs.",
+        "Collaborated on frontend development projects, contributing to multiple web applications. Assisted in delivering tailored sessions for 15+ trainees, decreasing code errors by 40%. Increased project completion rate by 25% through hands-on guidance.",
     },
     {
       icon: Code2,
-      title: "JavaScript Developer",
-      company: "OlovJS (Sera Programmer)",
-      period: "2023 - Present",
+      title: "Frontend Intern",
+      company: "STEM Professionals",
+      period: "May 2024 - Present",
       description:
-        "Contributed to developing JavaScript libraries and enhancing framework functionalities.",
+        "Assisted in teaching coding to over 30 students, improving programming fundamentals by 30%. Integrated VAPI API into the company’s website, enhancing customer engagement by 25%. Cleaned and optimized codebases, reducing bugs by 40% for production readiness.",
     },
   ];
+  
 
   return (
     <>

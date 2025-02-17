@@ -1,5 +1,4 @@
 import React from "react";
-import profileImage from "../assets/images/profile.png";
 
 const AboutMe = () => {
   return (
@@ -10,12 +9,11 @@ const AboutMe = () => {
         <div className="content max-w-2xl">
           <h2 className="text-[#4ECCA3] text-2xl font-bold mb-6">WHO I AM?</h2>
           <p className="text-lg leading-relaxed">
-            Hello! I’m Nazmul Hossain, a passionate JavaScript developer
+            Hello! I’m Balogun Oluwapelumi, a passionate JavaScript developer
             specializing in creating innovative web solutions and user-friendly
-            interfaces. As the creator of the{" "}
-            <a className="text-[#4ECCA3] px-2" href="https://olova.js.org/">
-              OlovaJS
-            </a>{" "}
+            interfaces. 
+            </p>
+            <p className="text-lg leading-relaxed">
             UI Framework, I’m dedicated to simplifying development workflows and
             pushing the boundaries of JavaScript frameworks. My focus is on
             making web development faster, easier, and accessible to all
@@ -27,11 +25,11 @@ const AboutMe = () => {
           </p>
         </div>
         <div className="image-container">
-          <img
+          {/* <img
             src={profileImage}
             alt="Profile"
             className="w-72 h-72 rounded-lg object-cover shadow-lg"
-          />
+          /> */}
         </div>
       </div>
     </section>

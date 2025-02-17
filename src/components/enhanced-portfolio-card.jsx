@@ -98,7 +98,7 @@ export default function EnhancedPortfolioCard() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.2, duration: 0.5 }}>
-            Elena Baharet Frank
+            Balogun Oluwapelumi Johnson
           </motion.h1>
           <motion.a
             href="mailto:elebaharet@gmail.com"
@@ -106,7 +106,7 @@ export default function EnhancedPortfolioCard() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.3, duration: 0.5 }}>
-            elebaharet@gmail.com
+            pjohnsonPJB@gmail.com
           </motion.a>
           <motion.div
             initial={{ opacity: 0, y: 20 }}
@@ -143,14 +143,14 @@ export default function EnhancedPortfolioCard() {
                 </Badge>
               </div>
               <p className="text-gray-300 text-lg leading-relaxed">
-                Visual Designer with 7+ years of experience. I'm all about
+                Visual Designer with 1+ years of experience. I'm all about
                 crafting user-friendly interfaces that are functional and
                 visually compelling.
               </p>
               <p className="text-gray-300 text-lg leading-relaxed">
-                Born and raised in the beautiful Costa Rica. When I'm not busy
-                designing, you'll likely find me playing some board games, deep
-                into my Animal Crossing or cooking some mouthwatering Arepas.
+              Born and raised in the vibrant Nigeria. 
+              When I'm not busy coding, you'll likely find me watching football, 
+              diving into a tech-related challenge, or enjoying a good book.
               </p>
             </motion.div>
           </Card>

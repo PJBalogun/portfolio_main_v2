@@ -15,24 +15,34 @@ const EducationSection = () => {
 
   const educationData = [
     {
-      degree: "Secondary School Certificate (SSC)",
-      school: "Natore Textile Institute",
-      mascot: "📘",
-      year: "2019-2021",
-      achievements: ["GPA: 4.89", "Subject: Science"],
-      skills: ["Mathematics", "Physics", "Chemistry", "Biology"],
-      description:
-        "Focused on core science subjects with emphasis on practical laboratory work and scientific research methodologies.",
+      degree: "Bachelor of Science (B.Sc.) in Systems Engineering",
+      school: "University of Lagos",
+      mascot: "🎓",
+      year: "2015-2023",
+      achievements: ["Completed with hands-on projects in software development."],
+      skills: ["Systems Design", "Software Engineering", "Mathematics", "Physics"],
+      description: 
+        "Focused on engineering principles, software development, and problem-solving through academic and practical projects.",
     },
     {
-      degree: "Higher Secondary Certificate (HSC)",
-      school: "Dottopara Model Degree College",
-      mascot: "📗",
-      year: "2021-2023",
-      achievements: ["GPA: 4.25", "Subject: Arts"],
-      skills: ["Literature", "Social Studies", "Economics", "History"],
-      description:
-        "Developed strong analytical and critical thinking skills through comprehensive study of humanities and social sciences.",
+      certification: "Soft Skills Certification",
+      institution: "Jobberman",
+      mascot: "🌟",
+      year: "2023",
+      achievements: ["Enhanced communication and teamwork", "Professional development in workplace etiquette."],
+      skills: ["Communication", "Leadership", "Time Management"],
+      description: 
+        "Completed a comprehensive soft skills training, focusing on improving interpersonal communication and team collaboration.",
+    },
+    {
+      certification: "Software Development Certification",
+      institution: "Techify",
+      mascot: "💻",
+      year: "2023",
+      achievements: ["Mastered software development fundamentals", "Built projects applying modern web technologies."],
+      skills: ["Frontend Development", "JavaScript", "React", "Node.js"],
+      description: 
+        "Acquired hands-on experience in building full-stack applications, developing responsive UIs, and integrating APIs.",
     },
   ];
 
