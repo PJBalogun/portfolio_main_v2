@@ -61,8 +61,8 @@ const profile = {
     title: 'Frontend Developer | Cloud Enthusiast | Problem Solver',
     skills: [
         'React', 'NextJS', 'Redux', 'Express',
-        'MySQL', 'MongoDB', 'Docker', 'AWS', 'TypeScript',
-        'GraphQL', 'Git', 'Linux', 'Discord Development'
+         'MongoDB', 'TypeScript', 'Python',
+        'GraphQL', 'Git', 'Tailwind', 'Javascript'
     ],
     hardWorker: true,
     quickLearner: true,
