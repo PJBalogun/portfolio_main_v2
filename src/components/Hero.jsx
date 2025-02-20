@@ -49,10 +49,10 @@ const AnimatedGrid = () => {
 
 export default function Hero() {
   const words = [
-    "Full-Stack Developer & UI/UX Enthusiast",
-    "JavaScript Developer & Creator of Olova.js",
+    "Full-Stack Developer",
+    "JavaScript Developer",
     "Learning MARN Stack",
-    "Linux & GitHub for DevOps Enthusiast",
+    "Mobile Responsive Enthusiast",
   ];
 
   const [code] = useState(`
