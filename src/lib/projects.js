@@ -11,6 +11,18 @@ export const projects = [
       featured: false,
     },
     {
+      title: "Book Management App",
+      description: "This is a full-stack GraphQL project that allows users to manage books and authors. The backend is built with Node.js, Express, and MongoDB, while the frontend is developed using Vite React for a fast and efficient development experience. The API enables adding and retrieving book and author data with a clean and scalable schema design. This project follows along with the Net Ninja YouTube tutorial series, offering hands-on practice with GraphQL and MongoDB integration.",
+      tags: ["React.js", "Tailwind", "GraphQL", "Node.js", "MongoDB"],
+      links: {
+        github: "https://github.com/PJBalogun/book_management_app",
+        demo: "https://67b739ece0529c14ea6c570c--book-management-app-2.netlify.app/",
+      },
+      image: "https://cdn.sanity.io/images/ult2n41l/production/bd62607c8f7b89b83d462f7fc41a20b570304c00-1600x739.png",
+      featured: false,
+    },
+    
+    {
       title: "React Movie App",
       description: "A responsive movie website with ReactJS and a third-party API (The Movie Database API).",
       tags: ["React.js", "JavaScript", "CSS"],
