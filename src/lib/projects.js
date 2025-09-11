@@ -9,6 +9,16 @@ export const projects = [
   },
   image: "https://cdn.sanity.io/images/ult2n41l/production/12f684d4214e352b81a815b63c9aa4a5d7006da8-1078x801.jpg",
   featured: true,
+},{
+  title: "SaaS Onboarding App",
+  description: "A modern SaaS dashboard application that helps users track key business metrics. It features a simple, four-step onboarding process and a comprehensive analytics dashboard displaying total revenue, active users, and various growth charts.",
+  tags: ["Next.js", "TypeScript", "Tailwind CSS"],
+  links: {
+    github: "https://github.com/PJBalogun/saas-onboarding-app-ot",
+    demo: "https://saas-onboarding-app-lc5lz9gz2-balogun-oluwapelumis-projects.vercel.app/",
+  },
+  image: "https://cdn.sanity.io/images/ult2n41l/production/43b18eb3a81b24c15aa227afa5d720d5e8896fd4-1080x1661.jpg",
+  featured: false,
 },
     {
       title: "Spotify_User Clone",
