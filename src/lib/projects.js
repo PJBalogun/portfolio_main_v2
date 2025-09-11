@@ -1,5 +1,16 @@
 export const projects = [
     {
+  title: "ResumeAI Pro - Enhanced AI Resume Analyzer",
+  description: "An AI-powered resume analyzer that provides ATS scoring, detailed feedback, multi-resume management, and secure browser-based authentication with Puter.js. Features advanced PDF processing and resume visualization.",
+  tags: ["React", "React Router", "Zustand", "Tailwind CSS", "TypeScript", "Vite"],
+  links: {
+    github: "https://github.com/PJBalogun/ai-resume-analyser",
+    demo: "https://ai-resume-analyser-wheat.vercel.app/",
+  },
+  image: "https://cdn.sanity.io/images/ult2n41l/production/12f684d4214e352b81a815b63c9aa4a5d7006da8-1078x801.jpg",
+  featured: true,
+},
+    {
       title: "Spotify_User Clone",
       description: "A Spotify clone built with React JS, Vite, Material UI, and the Spotify Web API.",
       tags: ["React.js", "JavaScript", "CSS"],
