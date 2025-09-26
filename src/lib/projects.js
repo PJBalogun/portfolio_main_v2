@@ -17,7 +17,7 @@ export const projects = [
     github: "https://github.com/PJBalogun/saas-onboarding-app-ot",
     demo: "https://saas-onboarding-app-lc5lz9gz2-balogun-oluwapelumis-projects.vercel.app/",
   },
-  image: "https://cdn.sanity.io/images/ult2n41l/production/43b18eb3a81b24c15aa227afa5d720d5e8896fd4-1080x1661.jpg",
+  image: "https://cdn.sanity.io/images/ult2n41l/production/3a1e5f1461425c14288a5a4c698c0a6d5535d9db-1586x740.png",
   featured: false,
 },
     {
