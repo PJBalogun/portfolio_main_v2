@@ -1,12 +1,12 @@
 import React, { useState } from "react";
-import Hero from "./components/Hero";
+import Hero from "./pages/home";
 import "./assets/css/index.css";
 import Header from "./components/Header";
-import Skills from "./components/Skills";
-import Experience from "./components/Experience";
-import Education from "./components/Education";
-import Contact from "./components/Contact";
-import Projects from "./components/Projects";
+import Skills from "./pages/skills";
+import Experience from "./pages/experience";
+import Education from "./pages/education/Education";
+import Contact from "./pages/contact";
+import Projects from "./pages/projects";
 import { Route, Routes } from "react-router-dom";
 
 export default function App() {

@@ -1,4 +1,15 @@
 export const projects = [
+  {
+  title: "Pulsify - HealthCare Management System",
+  description: "A healthcare patient management application that allows patients to register, book, and manage appointments with doctors. Includes administrative tools for scheduling, confirming, and canceling appointments, along with SMS notifications, all built using Next.js.",
+  tags: ["Next.js", "TypeScript", "TailwindCSS", "ShadCN", "Appwrite", "Twilio"],
+  links: {
+    github: "https://github.com/PJBalogun/pulsify-app-main",
+    demo: "https://jovial-lily-ee33f2.netlify.app",
+  },
+  image: "https://i.postimg.cc/rms53y2H/pulsify.jpg",
+  featured: true,
+},
     {
   title: "ResumeAI Pro - Enhanced AI Resume Analyzer",
   description: "An AI-powered resume analyzer that provides ATS scoring, detailed feedback, multi-resume management, and secure browser-based authentication with Puter.js. Features advanced PDF processing and resume visualization.",
@@ -8,6 +19,16 @@ export const projects = [
     demo: "https://ai-resume-analyser-wheat.vercel.app/",
   },
   image: "https://cdn.sanity.io/images/ult2n41l/production/12f684d4214e352b81a815b63c9aa4a5d7006da8-1078x801.jpg",
+  featured: true,
+},{
+  title: "AI-Powered Invoice Generator",
+  description: "A full-stack SaaS application that uses Google Gemini 1.5 Flash to convert natural language prompts into professional, downloadable PDF invoices. Features secure authentication, real-time client-side rendering, and database persistence for invoice history.",
+  tags: ["Next.js 14", "Gemini AI", "Supabase", "Auth.js", "Tailwind CSS", "TypeScript"],
+  links: {
+    github: "https://github.com/yourusername/ai-invoice-gen", // Replace with your actual username
+    demo: "https://ai-invoice-gen.vercel.app/",
+  },
+  image: "https://i.postimg.cc/DfCM7kqr/screenshot.jpg",
   featured: true,
 },{
   title: "SaaS Onboarding App",
@@ -77,7 +98,7 @@ export const projects = [
       featured: false,
     },
     {
-      title: "My Portfolio",
+      title: "Portfolio App",
       description: "Check out my portfolio to see my latest projects and contributions in web and mobile development. Explore my work and get in touch for collaborations!",
       tags: ["Next.JS", "Tailwind", "JavaScript", "TypeScript"],
       links: {
@@ -85,17 +106,6 @@ export const projects = [
         demo: "https://portfolio-main-gray.vercel.app/",
       },
       image: "https://cdn.sanity.io/images/ult2n41l/production/17b532f9f23e1525b6fc376a206b0edd614589b0-1600x741.png",
-      featured: true,
-    },
-    {
-      title: "Car App",
-      description: "A custom car app built with Next.js 13, Tailwind CSS, and car-ninja API.",
-      tags: ["Next.JS", "Tailwind", "TypeScript", "CSS"],
-      links: {
-        github: "https://car-app-main.vercel.app/",
-        demo: "https://car-app-main.vercel.app/",
-      },
-      image: "https://cdn.sanity.io/images/ult2n41l/production/8c9bb53461bea2dca23497dedcb306cd6ba3f1ef-1600x741.png",
       featured: true,
     },
     {
